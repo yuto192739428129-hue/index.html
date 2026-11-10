@@ -1,1 +1,19 @@
-# index.html
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Project Teralin</title>
+        <link rel="stylesheet" href="style.css">    <!-- style.cssを読み込む -->
+    </head>
+    <body>
+        <h1>氏 名</h1>
+        <p>寺山 裕也</p>
+        <h2>自己紹介</h2>
+        <p>鹿児島キャリアデザイン専門学校<br>ITスペシャリスト科 寺山裕也(32歳)です。<br>大学卒業後、
+            約7年働き現在SEを目指して勉強しています。</p>
+        <h3>趣味・好きなこと</h3>
+        <p>筋トレ・ウォーキング・麻雀</p>
+        <h4>GitHubリンク</h4>
+        <p><a href="https://github.com/yuya-collab">https://github.com/yuya-collab</a></p>
+    </body>
+</html>
